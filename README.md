@@ -4,12 +4,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/geekyamitesh/voiceAi-based-webapp/blob/main/images/aipic.PNG" height=400 width=400>
+  <img src="https://github.com/geekyamitesh/voiceAi-based-webapp/blob/main/images/aipic.PNG" height=500 width=500>
 </p>
 
 # Getting Started
 It is complete ready to use as a voice controling newsapp. This project is build in react.js and alan-ai.
-`Express`, `mongoose`, `lodash` are used.
+`material-ui`, `react`, `alan-ai/alan-sdk-web` are used.
 
 ## How to use?
 
