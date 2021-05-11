@@ -1,6 +1,6 @@
 
 <p align="center">
-   **Voice Based News Webapp**
+  <b>Voice Based News Webapp</B>
 </p>
 
 <p align="center">
