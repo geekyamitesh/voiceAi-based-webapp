@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/geekyamitesh/voiceAi-based-webapp/blob/main/images/aipic.PNG" height=500 width=500>
+  <img src="https://github.com/geekyamitesh/voiceAi-based-webapp/blob/main/images/aipic.PNG">
 </p>
 
 # Getting Started
