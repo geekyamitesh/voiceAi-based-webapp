@@ -61,10 +61,6 @@ I welcome and encourage all pull requests. It usually will take me within 10-21 
 
 
 
-### Implementation :innocent:
-
-This project is implemented in HTML, CSS, Javascript, MongoDB databse, Node.js and it's modules (express, ejs, lodash, mongoose).
-
 ### Tested :clap:
 
 This Project is Tested in Google Chrome Browser.
